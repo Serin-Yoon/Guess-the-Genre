@@ -27,7 +27,7 @@ Therefore, using machine learning and deep learning, respectively, we created mo
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **Animation** | 679 | **Comedy** | 11,193 | **Family** | 1,035 | **Romance** | 2,926 |
 
-- Due to the limiation of implementing a multi-label, we chose 1 genre for each movie (ex. Toystory: Animation, ... → Animation)
+- Due to the limiation of implementing a multi-label, we chose 1 genre for each movie (ex. Toystory: Animation, Adventure, Comedy, ... → Animation)
 - Then, we reorganized the dataset by selecting 4 genres that show the biggest difference between feature vectors among 28 genres.
 
 
