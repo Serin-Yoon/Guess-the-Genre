@@ -40,7 +40,7 @@ Therefore, using machine learning and deep learning, respectively, we created mo
 <img width="350" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/a4f4cbe5-243b-4992-8dfa-077670defd22">
 
 ### Deep Learning: Custom Model
-<img width="1676" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/d0d35880-7d4c-4037-8fac-c5d301ece907">
+<img width="1676" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/7db4b73b-1752-4fd3-9b22-33f02054ad2a">
 
 ### Deep Learning: Fine-tuned Pre-trained VGG-16
 <img width="900" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/676c263f-6204-4491-8def-63abaa3848ce">
