@@ -34,33 +34,34 @@ Therefore, using machine learning and deep learning, respectively, we created mo
 ## Model
 
 ### Machine Learning: KNN
-<img width="460" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/69146cdd-91ce-4c8d-bd10-cab4b7150e51">
+<img width="460" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/8f01e25d-2166-4c78-b11a-c2d4035c333e">
 
 ### Machine Learning: Ensemble (KNN + SVM)
-<img width="350" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/3a580f1d-8966-4f0c-926f-133ec59e5bd5">
+<img width="350" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/a4f4cbe5-243b-4992-8dfa-077670defd22">
 
 ### Deep Learning: Custom Model
-<img width="1676" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/2cb5ee1c-e3fe-4c64-b509-92b3585cfa9b">
+<img width="1676" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/d0d35880-7d4c-4037-8fac-c5d301ece907">
 
 ### Deep Learning: Fine-tuned Pre-trained VGG-16
-<img width="900" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/fb2aeed4-980e-4703-a9b0-0d7013a3cf5d">
+<img width="900" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/676c263f-6204-4491-8def-63abaa3848ce">
+
 
 ## Inference
 ### Machine Learning: KNN
-<img width="1230" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/9c23e6d5-104c-4dee-a733-0740ca10d733">
-<img width="1230" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/aa0a2e34-2f56-4af2-a82c-be0edc782a5c">
+<img width="1230" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/72217ac4-27c1-4259-aafb-736fc616f0a3">
+<img width="1230" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/264651e1-a53a-40e1-a065-1348c179f2bd">
 
 ### Machine Learning: Ensemble
-<img width="1230" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/d48b4825-12c1-454f-bcef-584e9599a6d0">
-<img width="1230" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/5888e63d-ddfa-48bd-b869-5bca27b2ca9d">
+<img width="1230" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/09ec67ed-9748-4d26-9391-fd9308343a49">
+<img width="1230" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/90b161d2-aa2b-4792-a81d-1cba649ab811">
 
 ### Deep Learning: Custom Model
-<img width="1230" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/eca07eae-c848-4c22-856c-692ccbbe69d9">
-<img width="1230" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/db2fefc7-bf58-44cb-9d71-8754fa0a26a3">
+<img width="1230" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/309bc8b5-2052-4a80-8643-69427c610ec5">
+<img width="1230" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/425d7cb4-a83e-4dcb-a208-e1c2692ebdb9">
 
 ### Deep Learning: Fine-tuned Pre-trained VGG-16
-<img width="1230" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/f52a2f43-8d37-47a5-b215-35e5c1270707">
-<img width="1230" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/e3668a31-5a5a-4695-9326-d0dd420985b0">
+<img width="1230" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/ff51d4ac-d480-45e9-a9c3-4a750e7ae822">
+<img width="1230" alt="image" src="https://github.com/Serin-Yoon/Guess-the-Genre/assets/53158200/88babb4a-0e5e-4077-881f-0413417c0911">
 
 
 ## Comparison
