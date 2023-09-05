@@ -90,7 +90,7 @@ Therefore, using machine learning and deep learning, respectively, we created mo
 
 ## Contributor
 - [Serin Yoon](https://github.com/serin-yoon)
-- [Dongmin Son]()
+- [Dongmin Son](https://github.com/dmson1218)
 
 
 ## Reference
